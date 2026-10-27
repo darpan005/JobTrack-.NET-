@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_Project\\JobTracker\\JobTrackerApi\\JobTrackerApi.csproj": {}
+    "D:\\1_Project\\JobTrack-.NET-\\JobTrackerApi\\JobTrackerApi.csproj": {}
   },
   "projects": {
-    "D:\\1_Project\\JobTracker\\JobTrackerApi\\JobTrackerApi.csproj": {
+    "D:\\1_Project\\JobTrack-.NET-\\JobTrackerApi\\JobTrackerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_Project\\JobTracker\\JobTrackerApi\\JobTrackerApi.csproj",
+        "projectUniqueName": "D:\\1_Project\\JobTrack-.NET-\\JobTrackerApi\\JobTrackerApi.csproj",
         "projectName": "JobTrackerApi",
-        "projectPath": "D:\\1_Project\\JobTracker\\JobTrackerApi\\JobTrackerApi.csproj",
+        "projectPath": "D:\\1_Project\\JobTrack-.NET-\\JobTrackerApi\\JobTrackerApi.csproj",
         "packagesPath": "C:\\Users\\darpa\\.nuget\\packages\\",
-        "outputPath": "D:\\1_Project\\JobTracker\\JobTrackerApi\\obj\\",
+        "outputPath": "D:\\1_Project\\JobTrack-.NET-\\JobTrackerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
