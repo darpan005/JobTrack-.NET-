@@ -6,7 +6,7 @@ public class JobApplication
     public string CompanyName{get; set;}=string.Empty;
     public string RoleTitle{get; set;}=string.Empty;
     public string Status{get; set;}="Applied";
-    public decimal? Salary{get; set;}
+    public decimal? SalaryPackage{get; set;}
     public DateTime AppliedDate{get; set;}= DateTime.UtcNow;
 
 
