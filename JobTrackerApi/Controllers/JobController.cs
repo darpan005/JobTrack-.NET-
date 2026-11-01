@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using JobTrackerApi.DTOs;
 using JobTrackerApi.Services;
 
-namespace JobTrackerApi.Controller;
+namespace JobTrackerApi.Controllers;
 
 [Authorize]
 [ApiController]
